@@ -6,7 +6,7 @@
                 <a href="Enseignements.php">Enseignements</a>
             </li>
             <li>
-              <a href="Filiere.php">Filières</a>
+              <a href="Filieres.php">Filières</a>
             </li>
             <li>
               <a href="Classes.php">Classes</a>
