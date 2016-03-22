@@ -15,7 +15,4 @@
             <li>
               <a href="Eleves.php">Elèves</a>
             </li>
-            <li>
-              <a href="Connexion.php">Connexion</a>
-            </li>
           </ul><br class="clear-all"></div>
