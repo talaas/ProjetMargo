@@ -8,7 +8,7 @@
     <div id="outer-container">
       <div id="header">
         <div id="main-logo">
-          <h1><a href="#">Your Page Name</a></h1>
+          <h1><a href="#">Projet Margo</a></h1>
         </div>
         <div id="main-menu">
           <ul><li class="first-item">
