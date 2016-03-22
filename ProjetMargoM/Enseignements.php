@@ -18,7 +18,7 @@
         <div id="column1">
             
           <div id="content1">
-            <h2>Accueil</h2>
+            <h2>Enseignements</h2>
             
           <br class="clear-all"></div>
 
